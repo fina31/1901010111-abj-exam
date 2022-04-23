@@ -1,0 +1,3 @@
+Nama Perangkat : cisco, 	 Lokasi : gedung a
+Nama Perangkat : router, 	 Lokasi : gedung b
+Nama Perangkat : router b, 	 Lokasi : gedung c
